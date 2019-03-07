@@ -1,0 +1,53 @@
+.sign-in {
+  align-items: center;
+  background: linear-gradient(
+    var(--blueLight),
+    var(--blue)
+  );
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+
+  .form {
+    background: var(--white);
+    padding: 3rem;
+    width: 35rem;
+    max-width: 90%;
+    text-align: center;
+    margin: 3rem auto;
+    border-radius: 0.75rem;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25);
+    h1 {
+      font-weight: 200;
+      margin: 0.5rem 0 3rem 0;
+    }
+    p {
+      font-size: 1.2rem;
+      margin: 1rem 0;
+      text-align: center;
+    }
+    img {
+      width: 100px;
+      margin: 0 auto;
+    }
+    form {
+      display: flex;
+      flex-direction: column;
+      label {
+        padding: 1.5rem 0 1rem 0;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        p {
+          margin: 0 0 1rem 0;
+        }
+      }
+      input {
+        padding: 1rem 1.5rem;
+        border: 0.1rem solid var(--grey400);
+        border-radius: 0.25rem;
+      }
+    }
+  }
+}
