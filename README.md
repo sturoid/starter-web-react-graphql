@@ -1,5 +1,10 @@
 # starter-web-react-graphql
-Starter web project for React and GraphQL with Parcel for build system, Apollo for GraphQL integration, and code formatting and enforcement with eslint, prettier, and husky. Includes sign in, sign up, forgot password, reset password, and many helpful things that almost all projects need.
+Starter project with good basics for creating a web application using React and GraphQL. Includes:
+- Code and folder structure.
+- Code formatting and enforcement with eslint, prettier, and husky.
+- Base UI elements, error elements, form elements, utils, and services.
+- Sign in, sign up, forgot password, reset password, and initial authenticated dashboard view.
+- Testing setup with Jest, enzyme, and Cypress.
 
 ## Setup
 
