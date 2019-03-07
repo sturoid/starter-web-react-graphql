@@ -26,5 +26,5 @@ This will open up the cypress GUI where the tests can be run and interacted with
 ### File Naming
 
 - React components should ollow the name of the component (CoolComponent.js, OtherComponent.js).
-- Files that are directly linked to a component such as utils, styles, and files to grab data should have the name of the component and then be namespaced with a period (e.g. MyButtom.scss, MyButton.utils.js, MyButton.data.js).
+- Files that are directly linked to a component such as utils, styles, and files to grab data should have the name of the component and then be namespaced with a period (e.g. MyButton.scss, MyButton.utils.js, MyButton.data.js).
 - Non component related files should be lowercase and dash separated (some-file.js, some-other-file.js).
