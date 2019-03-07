@@ -6,7 +6,7 @@ Starter project with good basics for creating a web application using React and 
 - Sign in, sign up, forgot password, reset password, and initial authenticated dashboard view.
 - Testing setup with Jest, enzyme, and Cypress.
 
-For a starter full stack application use the [starter-api-node-graphql](https://github.com/sturoid/starter-api-node-graphql) repository for a starting GraphQL API using Node.
+For a starting API use [starter-api-node-graphql](https://github.com/sturoid/starter-api-node-graphql).
 
 ## Setup
 
